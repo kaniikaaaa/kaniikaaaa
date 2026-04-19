@@ -15,7 +15,7 @@ Looking for a Software Engineer (Full-Stack + AI)? Reach out: **kanikash187@gmai
 
 | # | Project | Stack | Highlights | Date | Link |
 |---|---|---|---|---|---|
-| 01 | **VedaAI** | Next.js, Express, MongoDB, Redis/BullMQ, Socket.io, GPT-4o (JSON mode), @react-pdf | Assessment creator that generates graded question papers in 10 to 30s. Reached final interview round. Deployed. | 2026 | [Live](<PASTE_VEDAAI_LIVE_URL>) · [GitHub](https://github.com/kaniikaaaa/vedaai) |
+| 01 | **VedaAI** | Next.js, Express, MongoDB, Redis/BullMQ, Socket.io, GPT-4o (JSON mode), @react-pdf | Assessment creator that generates graded question papers in 10 to 30s. Reached final interview round. Deployed. | 2026 | [Live](https://vedaai-7vks.onrender.com) · [GitHub](https://github.com/kaniikaaaa/vedaai) |
 | 02 | **Agentic Resume Screening** | LangGraph, Gemini, FastAPI, Python | 6-agent pipeline with conditional routing and rule-based fallback on low-confidence classifications. | 2026 | [GitHub](https://github.com/kaniikaaaa/agentic-resume-screening-system) |
 | 03 | **FinanceRAG** | FastAPI, pgvector, PostgreSQL, OpenAI embeddings, GPT-4o-mini | RAG over Yahoo Finance news. Recency-weighted retrieval, cited answers, sub-second queries. | Jan to Feb 2026 | [GitHub](https://github.com/kaniikaaaa/FinanceRAG) |
 | 04 | **Concisely** | React, Flask, TextRank, BART, TF-IDF | Summarizes articles and YouTube videos. Hybrid extractive-abstractive pipeline. | Jan to Mar 2025 | [GitHub](https://github.com/kaniikaaaa/ai-text-and-video-summarizer) |
